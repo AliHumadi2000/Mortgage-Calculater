@@ -1,2 +1,2 @@
-# Mortgage-Calculater
+# Mortgage-Calculator
 calculate mortgage payment
